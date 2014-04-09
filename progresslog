@@ -1,0 +1,21 @@
+Legend:
+- To do
+X Done
+P Partial
+F Failed
+C Currently in progress
+
+Alpha:
+ X Start project
+ - Base classes
+   - MMBAGMutator
+   - MMasterChunk
+   - MGenericChunk
+   - MBloodDrop
+   - MBloodSmoke
+   - MBloodTrail
+   - MBloodCloud
+Beta:
+ - Actual mod menu?
+Gold:
+ - Multiplayer-friendly?
