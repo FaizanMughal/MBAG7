@@ -22,8 +22,10 @@ What's in here:
  * different blood and gore types for all "vanilla" pawns (i.e.: robotic
    characters bleed sparks and oil and blow up into metal chunks).
 
-This mutator will have unpleasant side effects when used with some of my weapon
-mods, since they abuse gib spawning sometimes.
+This mutator is generally compatible with any mods, as long as they don't
+override damage and death functions too.
+
+MBAG7 requires MVertUtil, which is also available on my GitHub.
 
 --
 

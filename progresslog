@@ -7,14 +7,23 @@ C Currently in progress
 
 Alpha:
  X Start project
- - Base classes
-   - MMBAGMutator
-   - MMasterChunk
-   - MGenericChunk
-   - MBloodDrop
-   - MBloodSmoke
-   - MBloodTrail
-   - MBloodCloud
+ X Base classes
+   C MMBAGMutator
+   P MChunk
+     - Chunk behavior
+   P MBlood
+     - Generic behavior
+     - Droplet behavior
+     - Puff behavior
+     - Trail behavior
+     - Gib cloud behavior
+     - Ceiling pool behavior
+   P MCarcass
+     - Carcass behavior
+ - Fun Modes
+   - Brütal ÜT
+   - High Pressure
+   - Wat
 Beta:
  - Actual mod menu?
 Gold:
