@@ -58,7 +58,20 @@ class MDecal extends Decal;
 var() Texture DecalTex[24];
 var() Texture CDecalTex[24];
 
-// TODO Everything
+event PostBeginPlay()
+{
+	// Just self-destruct for now
+	Destroy();
+}
+
+event Update( Actor L )
+{
+}
+
+function Splat( Pawn Other, Vector Momentum )
+{
+	// TODO
+}
 
 defaultproperties
 {

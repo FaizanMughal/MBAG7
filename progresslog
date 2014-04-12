@@ -8,18 +8,16 @@ C Currently in progress
 Alpha:
  X Start project
  X Base classes
-   C MMBAGMutator
-   P MChunk
-     - Chunk behavior
+   X MMBAGMutator
+   X MChunk
+     X Chunk behavior
    P MBlood
-     - Generic behavior
-     - Droplet behavior
-     - Puff behavior
-     - Trail behavior
-     - Gib cloud behavior
-     - Ceiling pool behavior
+     X Drop behavior
+     X Puff behavior
+     X Smoke behavior
+     - Pool behavior
    P MCarcass
-     - Carcass behavior
+     C Carcass behavior
    P MDecal
      - Decal behavior
  - Fun Modes
@@ -27,6 +25,7 @@ Alpha:
    - High Pressure
    - Wat
 Beta:
+ - Find proper fix for invisible players bug
  - Actual mod menu?
 Gold:
  - Multiplayer-friendly?
